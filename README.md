@@ -1,5 +1,6 @@
 - Hi, I’m James
 - Learning C++ and JS
+- Aspiring full-stack developer
 
 <!---
 jamesukiyo/jamesukiyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
