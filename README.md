@@ -1,5 +1,5 @@
 - Hi, I’m James
-- Learning C++ and JS
+- Learning HTML, CSS, JS and SQL
 - Aspiring full-stack developer
 
 <!---
