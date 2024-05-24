@@ -2,7 +2,7 @@ Learning since Jan 2024 - self-taught
 
 - Java Spring (in progress)
 - Python, including the basics of machine learning
-- HTML, CSS, JS
+- HTML, CSS, JS (some React)
 - Git for version control
 - multiple Linux distros
 - SQL
