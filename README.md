@@ -6,7 +6,7 @@ Learning since Jan 2024 - self-taught
 - Git for version control
 - multiple Linux distros
 - SQL
-- Docker basics
+- Docker
 - Figma
 - Jira
 
